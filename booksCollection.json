@@ -1236,4 +1236,10 @@
         "authorName" : "Germán Cocca",
         "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
       },
+{
+        "id" : "200",
+        "bookName" : "Go Programming Language",
+        "authorName" : "Alan A. A. Donovan",
+        "bookLink"   : "https://www.amazon.in/Programming-Language-Addison-Wesley-Professional-Computing-ebook/dp/B0184N7WWS"
+      },
 ]
