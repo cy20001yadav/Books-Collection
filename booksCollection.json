@@ -1230,4 +1230,22 @@
          "authorName" : "Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud",
          "bookLink"   : "https://www.amazon.in/Introduction-Python-Computer-Data-Sciences/dp/0135404673"
       },
+     {
+        "id" : "199",
+        "bookName" : "The Software Architecture Handbook",
+        "authorName" : "Germán Cocca",
+        "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
+      },
+{
+        "id" : "200",
+        "bookName" : "Go Programming Language",
+        "authorName" : "Alan A. A. Donovan",
+        "bookLink"   : "https://www.amazon.in/Programming-Language-Addison-Wesley-Professional-Computing-ebook/dp/B0184N7WWS"
+      },
+{
+        "id" : "201",
+        "bookName" : "The Monk Who Sold His Ferrari",
+        "authorName" : "Robin Sharma"
+        "bookLink"   : "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/817992162X/ref=sr_1_2_sspa?"
+      },
 ]
